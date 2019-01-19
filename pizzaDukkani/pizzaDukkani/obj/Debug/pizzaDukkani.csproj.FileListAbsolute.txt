@@ -1,0 +1,7 @@
+c:\users\nurullah\source\repos\pizzaDukkani\pizzaDukkani\bin\Debug\pizzaDukkani.exe.config
+c:\users\nurullah\source\repos\pizzaDukkani\pizzaDukkani\bin\Debug\pizzaDukkani.exe
+c:\users\nurullah\source\repos\pizzaDukkani\pizzaDukkani\bin\Debug\pizzaDukkani.pdb
+c:\users\nurullah\source\repos\pizzaDukkani\pizzaDukkani\obj\Debug\pizzaDukkani.csprojResolveAssemblyReference.cache
+c:\users\nurullah\source\repos\pizzaDukkani\pizzaDukkani\obj\Debug\pizzaDukkani.csproj.CoreCompileInputs.cache
+c:\users\nurullah\source\repos\pizzaDukkani\pizzaDukkani\obj\Debug\pizzaDukkani.exe
+c:\users\nurullah\source\repos\pizzaDukkani\pizzaDukkani\obj\Debug\pizzaDukkani.pdb
